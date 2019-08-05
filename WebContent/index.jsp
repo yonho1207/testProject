@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-asdfasdfasdf
+	정현 등록 완료ㅗㅗㅗㅗㄴㅇㄴㅇㄴㅇ
 </body>
 </html>
